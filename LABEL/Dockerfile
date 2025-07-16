@@ -1,5 +1,5 @@
 FROM alamlinux:9
 LABEL course="devops" \
-      instrutor="sivakumar"
+      instrutor="sivakumar" \
       duration="120HRS"
 CMD ["sleep", "1000"]
