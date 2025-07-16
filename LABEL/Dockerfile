@@ -1,4 +1,4 @@
-FROM alamlinux:9
+FROM almalinux:9
 LABEL course="devops" \
       instrutor="sivakumar" \
       duration="120HRS"
